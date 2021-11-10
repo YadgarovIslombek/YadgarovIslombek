@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=YadgarovIslombek&count_private=true&show_icons=true&theme=react)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YadgarovIslombek&show_icons=true&theme=react)
+
+## Social Media
+
+- [Telegram] (https://t.me/ID2214)
+
