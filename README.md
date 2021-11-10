@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ## Social Media
 
-- [Telegram] (https://t.me/ID2214)
+- [Telegram](https://t.me/ID2214)
 
