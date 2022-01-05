@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=YadgarovIslombek&count_private=true&show_icons=true&theme=react)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YadgarovIslombek&show_icons=true&theme=react)
+![Visitor Count](https://profile-counter.glitch.me/{YadgarovIslombek}/count.svg)
 
 ## Social Media
 
